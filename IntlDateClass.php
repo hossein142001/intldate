@@ -1,6 +1,6 @@
 <?php
 
-namespace meysampg\intldate;
+namespace hossein142001\intldate;
 
 class IntlDateClass
 {

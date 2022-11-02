@@ -5,15 +5,15 @@
  *
  * @category Traits
  *
- * @author   meysampg <p.g.meysam@gmail.com>
- * @license  https://github.com/meysampg/intldate/blob/master/LICENSE MIT
+ * @author   hossein142001 <p.g.meysam@gmail.com>
+ * @license  https://github.com/hossein142001/intldate/blob/master/LICENSE MIT
  *
  * @version  1.1
  *
- * @link     https://github.com/meysampg/intldate
+ * @link     https://github.com/hossein142001/intldate
  */
 
-namespace meysampg\intldate;
+namespace hossein142001\intldate;
 
 use Exception;
 use IntlCalendar;
