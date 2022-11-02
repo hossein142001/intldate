@@ -1,0 +1,21 @@
+{
+    "name": "hossein142001/intldate",
+    "description": "A small php library for date converting between multiple calendar",
+    "type": "library",
+    "keywords": ["date","extension","jalali","intl","buddhist","chinese","coptic","ethiopic","gregorian","hebrew","indian","islamic","islamic-civil","japanese","persian","taiwan"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hossein142001",
+            "email": "hossein142001@gmail.com"
+        }
+    ],
+    "require": {
+        "ext-intl" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "hossein142001\\intldate\\": ""
+        }
+    }
+}
